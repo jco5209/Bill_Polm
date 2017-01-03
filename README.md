@@ -1,4 +1,2 @@
-## Bill Polm
-
-# One of my very first Projects
-Needs updating and commented
+# Bill Polm
+## One of my very first Projects - Needs updating and commented
